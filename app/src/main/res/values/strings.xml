@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IRKitSample</string>
+    <string name="bt_recent">recent</string>
+    <string name="bt_send">send</string>
+</resources>
